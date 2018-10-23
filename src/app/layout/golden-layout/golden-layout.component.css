@@ -1,0 +1,9 @@
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+#layout {
+  height: calc(100vh - 20px);
+  width: 100vw;
+}
